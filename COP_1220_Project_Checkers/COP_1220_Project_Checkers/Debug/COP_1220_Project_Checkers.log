@@ -1,0 +1,5 @@
+﻿  Source.c
+f:\coldstorage\schooldata\hcc\cop 1220\cop_1220_project_checkers\cop_1220_project_checkers\source.c(57): warning C4013: 'srand' undefined; assuming extern returning int
+f:\coldstorage\schooldata\hcc\cop 1220\cop_1220_project_checkers\cop_1220_project_checkers\source.c(58): warning C4013: 'rand' undefined; assuming extern returning int
+f:\coldstorage\schooldata\hcc\cop 1220\cop_1220_project_checkers\cop_1220_project_checkers\source.c(233): warning C4013: 'system' undefined; assuming extern returning int
+  COP_1220_Project_Checkers.vcxproj -> F:\ColdStorage\SchoolData\HCC\COP 1220\COP_1220_Project_Checkers\Debug\COP_1220_Project_Checkers.exe
